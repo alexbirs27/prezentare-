@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Repere ale formării educaționale și profesionale}{3}{0}{1}
+\beamer@sectionintoc {2}{Activitatea de cercetare: rezultate, vizibilitate și impact}{7}{0}{2}
+\beamer@sectionintoc {3}{Analiza SWOT a dezvoltării carierei academice}{9}{0}{3}
+\beamer@sectionintoc {4}{Direcții strategice de dezvoltare viitoare}{15}{0}{4}
